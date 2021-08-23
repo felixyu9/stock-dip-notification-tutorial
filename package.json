@@ -1,0 +1,9 @@
+{
+  "name": "stock-dip-notification",
+  "version": "1.0.0",
+  "author": "felixyu",
+  "dependencies": {
+    "moment-timezone": "0.5.33",
+    "yahoo-finance": "0.3.7"
+  }
+}
